@@ -16,7 +16,7 @@ Télécharger l'image virtuelle depuis le lien officiel fourni par le cours (Goo
 
 >  Google Drive peut afficher un avertissement antivirus pour les fichiers `.ova` volumineux — cliquer sur **"Télécharger quand même"** pour poursuivre.
 
-<img width="278" height="83" alt="image" src="https://github.com/user-attachments/assets/cbf7fad7-707a-43f4-af9d-8f0c8eb3ffef" />
+<img alt="image" src="https://github.com/user-attachments/assets/cbf7fad7-707a-43f4-af9d-8f0c8eb3ffef" />
 
 Après le téléchargement, le fichier `Mobexler.ova` est présent sur la machine locale.
 
