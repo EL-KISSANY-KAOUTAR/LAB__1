@@ -50,13 +50,13 @@ Après l'importation, configurer les interfaces réseau :
 
 ### Étape 3 — Premier démarrage + connexion
 
-<img width="231" height="247" alt="image" src="https://github.com/user-attachments/assets/804939fb-6699-4923-98d5-83d3c56402d8" />
+<img alt="image" src="https://github.com/user-attachments/assets/804939fb-6699-4923-98d5-83d3c56402d8" />
 
 La machine virtuelle a démarré correctement et affiche l'écran d'authentification. Le mot de passe utilisé est mobexler conformément à la documentation du laboratoire. L'accès au système a été effectué avec succès.
 
 ### Étape 4 — Vérifier le réseau (tests “santé”)
 
-<img width="363" height="60" alt="image" src="https://github.com/user-attachments/assets/c72f663c-a115-4399-9652-553b6bd93e8c" />
+<img alt="image" src="https://github.com/user-attachments/assets/c72f663c-a115-4399-9652-553b6bd93e8c" />
 
 Ping vers 8.8.8.8 réussi.
 
@@ -64,13 +64,17 @@ Ping vers 8.8.8.8 réussi.
 
 Depuis la fenêtre de VirtualBox, sélectionner le menu VM.
 
-<img width="157" height="163" alt="image" src="https://github.com/user-attachments/assets/3d1a1dac-b443-476e-b22f-22b8d33cc22d" />
+<img alt="image" src="https://github.com/user-attachments/assets/3d1a1dac-b443-476e-b22f-22b8d33cc22d" />
 
 Dans le menu VM, cliquer sur Snapshot afin d'ouvrir le gestionnaire de snapshots.
 
-<img width="112" height="40" alt="image" src="https://github.com/user-attachments/assets/abc22f0c-cc8b-42e1-9cde-087b00d06408" />
+<img alt="image" src="https://github.com/user-attachments/assets/abc22f0c-cc8b-42e1-9cde-087b00d06408" />
 
-<img width="360" height="232" alt="image" src="https://github.com/user-attachments/assets/f66bbd0c-fcf8-4c80-b29c-425c4418e7c2" />
+<img alt="image" src="https://github.com/user-attachments/assets/f66bbd0c-fcf8-4c80-b29c-425c4418e7c2" />
+
+# Conclusion
+
+Ce TP a permis de mettre en place avec succès l'environnement Mobexler dans VirtualBox. La machine virtuelle a été importée, configurée avec les réseaux NAT et Host-Only, puis testée afin de vérifier son bon fonctionnement et son accès à Internet. Un snapshot CLEAN a également été créé pour pouvoir restaurer rapidement un état propre de l'environnement. L'infrastructure est désormais prête pour les prochains laboratoires d'analyse et de sécurité mobile.
 
 
 
